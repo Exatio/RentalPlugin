@@ -1,0 +1,36 @@
+name: OwnerGamePlugin
+version: 1.0.0
+api-version: 1.18
+main: fr.exatio.ownergame.OwnerGamePlugin
+authors: [Exatio]
+description: The OwnerGame plugin MAIN by EXATIO oh yeah
+commands:
+  proposerlocation:
+    description: Proposer une location à un locataire potentiel.
+    usage: /<command> <player> <number of apartment>
+  acceptlocation:
+    description: Accepter une proposition de location.
+    usage: /<command>
+  declinelocation:
+    description: Refuser une proposition de location.
+    usage: /<command>
+  proposerimmeuble:
+    description: Proposer une vente d'immeuble à un acheteur potentiel.
+    usage: /<command> <player>
+  acceptimmeuble:
+    description: Accepter une proposition de vente d'immeuble.
+    usage: /<command>
+  declineimmeuble:
+    description: Refuser une proposition de vente d'immeuble.
+    usage: /<command>
+  tpapartment:
+    description: Se téléporter à son appartement
+    usage: /<command>
+  infosimmeuble:
+    description: Voir les infos sur son immeuble
+    usage: /<command>
+  infoslocation:
+    description: Voir les infos sur sa location
+    usage: /<command>
+
+

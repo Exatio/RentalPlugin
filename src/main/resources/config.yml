@@ -1,0 +1,302 @@
+numberOfBuildings: 11
+numberOfApartments: 30
+prixJournalierAppart: 10
+
+buildings:
+  1:
+    owner: CONSOLE
+    apartments: [1, 2]
+    price: 200000
+    income: 200
+  2:
+    owner: CONSOLE
+    apartments: [3, 4, 5]
+    price: 200000
+    income: 200
+  3:
+    owner: CONSOLE
+    apartments: [6, 7, 8]
+    price: 200000
+    income: 200
+  4:
+    owner: CONSOLE
+    apartments: [9, 10, 11]
+    price: 200000
+    income: 200
+  5:
+    owner: CONSOLE
+    apartments: [12]
+    price: 200000
+    income: 200
+  6:
+    owner: CONSOLE
+    apartments: [13, 14, 15]
+    price: 200000
+    income: 200
+  7:
+    owner: CONSOLE
+    apartments: [16, 17, 18]
+    price: 200000
+    income: 200
+  8:
+    owner: CONSOLE
+    apartments: [19, 20, 21]
+    price: 200000
+    income: 200
+  9:
+    owner: CONSOLE
+    apartments: [22, 23, 24]
+    price: 200000
+    income: 200
+  10:
+    owner: CONSOLE
+    apartments: [25, 26, 27]
+    price: 200000
+    income: 200
+  11:
+    owner: CONSOLE
+    apartments: [28, 29, 30]
+    price: 200000
+    income: 200
+
+apartments:
+  1:
+    location:
+      x: 105
+      y: 93
+      z: -168
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  2:
+    location:
+      x: 105
+      y: 98
+      z: -168
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  3:
+    location:
+      x: 93
+      y: 93
+      z: -164
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  4:
+    location:
+      x: 93
+      y: 98
+      z: -164
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  5:
+    location:
+      x: 93
+      y: 102
+      z: -164
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  6:
+    location:
+      x: 82
+      y: 93
+      z: -161
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  7:
+    location:
+      x: 82
+      y: 99
+      z: -161
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  8:
+    location:
+      x: 82
+      y: 103
+      z: -161
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  9:
+    location:
+      x: 74
+      y: 93
+      z: -149
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  10:
+    location:
+      x: 74
+      y: 99
+      z: -149
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  11:
+    location:
+      x: 74
+      y: 103
+      z: -149
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  12:
+    location:
+      x: 73
+      y: 93
+      z: -139
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  13:
+    location:
+      x: 75
+      y: 93
+      z: -126
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  14:
+    location:
+      x: 75
+      y: 98
+      z: -126
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  15:
+    location:
+      x: 75
+      y: 103
+      z: -126
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  16:
+    location:
+      x: 78
+      y: 93
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  17:
+    location:
+      x: 78
+      y: 98
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  18:
+    location:
+      x: 78
+      y: 103
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  19:
+    location:
+      x: 88
+      y: 93
+      z: -115
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  20:
+    location:
+      x: 88
+      y: 98
+      z: -115
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  21:
+    location:
+      x: 88
+      y: 102
+      z: -115
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  22:
+    location:
+      x: 105
+      y: 93
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  23:
+    location:
+      x: 104
+      y: 98
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  24:
+    location:
+      x: 104
+      y: 103
+      z: -113
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  25:
+    location:
+      x: 114
+      y: 93
+      z: -116
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  26:
+    location:
+      x: 114
+      y: 98
+      z: -116
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  27:
+    location:
+      x: 114
+      y: 104
+      z: -116
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  28:
+    location:
+      x: 123
+      y: 93
+      z: -128
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  29:
+    location:
+      x: 123
+      y: 98
+      z: -128
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
+  30:
+    location:
+      x: 123
+      y: 103
+      z: -128
+      yaw: 0
+      pitch: 0
+    tenant: NOBODY
